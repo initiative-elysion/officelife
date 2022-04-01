@@ -10,6 +10,32 @@
         }
     ],
     "env": {
-       
+        "APP_ENV":"production",
+        "APP_KEY":"base64:xyMZD5RPJL81pXUr0IfRJ7x790kgdaRwmFRFJPcxSZM=",
+        "APP_TRUSTED_PROXIES":"*",
+        "CACHE_DRIVER":"database",
+        "CURRENCY_LAYER_API_KEY":"78535f9e463ba03d35ca5749a3aab131",
+        "CURRENCY_LAYER_PLAN":"free",
+        "DATABASE_URL":"postgres://uvxhqpysstarhh:aca58f1f27fc4241373b2854df66c8cc89c381dc5b7f2e5b0d0ff7f4287fa5ba@ec2-99-80-170-190.eu-west-1.compute.amazonaws.com:5432/drpfgis4nqmdp",
+        "DB_CONNECTION": "pgsql",
+        "ENABLE_SIGNUPS":"false",
+        "LOCATION_IQ_API_KEY":"pk.e938bd40b3b765623e46c41c336ed2c2",
+        "LOG_CHANNEL":"syslog",
+        "LOG_LEVEL":"debug",
+        "MAIL_FROM_ADDRESS":"dev@sick-simon.de",
+        "MAIL_FROM_NAME":"Christoph Simon",
+        "MAIL_HOST":"mxe845.netcup.net",
+        "MAIL_LOG_CHANNEL":"syslog",
+        "MAIL_MAILER":"smtp",
+        "MAIL_PASSWORD":"@mB31nh0",
+        "MAIL_PORT":"465",
+        "MAIL_USERNAME":"dev@sick-simon.de",
+        "MAIL_VERIFY":"true",
+        "MAPBOX_API_KEY":"pk.eyJ1IjoiaW5pdGlhdGl2ZS1lbHlzaW9uIiwiYSI6ImNsMWZhOGllbjAzengzZHBmZXo1b2tqajIifQ.8XVthvIJw4xt5Y5VtQ0_vA",
+        "MAPBOX_USERNAME":"initiative-elysion",
+        "QUEUE_CONNECTION":"sync",
+        "SESSION_DRIVER":"database",
+        "UPLOADCARE_PRIVATE_KEY":"71552337d29faa560f2f",
+        "UPLOADCARE_PUBLIC_KEY":"a03e687c6aa04bc1a022"
     }
 }

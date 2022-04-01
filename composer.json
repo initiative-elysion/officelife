@@ -11,6 +11,7 @@
     "require": {
         "php": "^8.0",
         "ext-intl": "*",
+        "ext-redis": "*",
         "doctrine/dbal": "^3.0",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0",
